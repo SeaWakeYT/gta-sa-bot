@@ -6,6 +6,3 @@ I only did the porting from javascript to python(which is a different repo).
 
 Thank You,
 JDJG
-
-[]: # Language: markdown
-[]: # Path: Readme.MD
